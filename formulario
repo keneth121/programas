@@ -27,7 +27,7 @@
 				<option disabled selected> Selecciona tu pais</option>  
 				<option>Colombia</option> 
 				<option>Mexico</option> 
-				<option>Brasil</option>   
+				<option>China</option>   
 
 			</select>
             <input type="submit" name=""
